@@ -49,8 +49,8 @@ The Cryptocurrency API is an ASP.NET Core Web API designed to interact with the 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/crypto-api.git
-   cd crypto-api
+   git clone https://github.com/your-repo/PowerSoftAssignment.git
+   cd PowerSoftAssignment
    ```
 
 2. **Build and Run the Project**
